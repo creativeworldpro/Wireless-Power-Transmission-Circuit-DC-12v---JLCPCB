@@ -22,10 +22,15 @@ To make this wireless power transfer circuit, we might need some electronics com
 All components list have been given below –
 
 •	Mosfet – IRF 250 N
+
 •	Diode – 1N 5399 *2
+
 •	Resistor –  220 Ω, 10 KΩ
+
 •	Metallized Polypropylene Film Capacitor – 105J 400v *4
+
 •	Toroidal Coil 
+
 •	Output Sockets
 
 Mosfet Pin Out - 
@@ -35,14 +40,19 @@ The metal–oxide–semiconductor field-effect transistor, also known as the met
 Its 3 legs pin-out can be seen above.
 
 •	Gate
+
 •	Drain
+
 •	Source
 
 Feature - 
 
 •	Simple design
+
 •	Lower frequency operation
+
 •	Low cost
+
 •	Practical for short distance
 
 Circuit Connection – Step 1
@@ -88,14 +98,23 @@ If you are a new user, then you can order 10 pieces PCBs, costing only $2. To pl
 Steps to Order SMT PCBs from JLCPCB - 
 
 •	To order your SMT PCBs, visit JLCPCB.
+
 •	 Drag and drop SMT PCBs file on site.
+
 •	 Choose your PCBs color and quantity.
+
 •	 To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+
 •	 Add your Bom file and CPL file.
+
 •	 Place your order click on “Save to Cart” button.
+
 •	 Confirm your shipping address and shipping method.
+
 •	 Pay your payment
+
 •	 Wait for confirmation mail.
+
 •	 For SMT Service, Click here - https://jlcpcb.com/smt-assembly
 
 Shipping and Billing - 
@@ -105,18 +124,27 @@ JLCPCB supported all shipping method can be seen below
 Estimated Delivery Time -
 
 •	DHL International Express 3-5 business days
+
 •	UPS Worldwide Saver 3-6 business days
+
 •	S.F Express(Standard) 5-8 business days
+
 •	S.F Express(Economy) 8-15 business days
+
 •	Singapore EMS 8-15 business days
+
 •	PostLink Registered Mail 15-20 business days
+
 •	ePacket 15-25 business days
+
 •	Registered Air Mail 15-20 business days
 
 JLCPCB supported Payment method - 
 
 •	PayPal
+
 •	Credit/Debit Care
+
 •	Prepaid wire transfer
 
 Confirm PCBs Order - 
